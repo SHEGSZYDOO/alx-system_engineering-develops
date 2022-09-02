@@ -1,1 +1,1 @@
-Read thie file
+Read this file
