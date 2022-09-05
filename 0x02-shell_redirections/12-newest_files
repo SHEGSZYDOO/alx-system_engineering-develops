@@ -1,1 +1,2 @@
-Read this files
+#!/bin/bash
+ls -1 --sort=time | head -n 10
