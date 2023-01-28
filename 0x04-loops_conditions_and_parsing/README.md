@@ -41,4 +41,3 @@ Where only the part of the name after the first dash is displayed (refer to the 
 9 - Write a Bash script that gives you information about the school file.
 
 10 - Write a Bash script that displays numbers from 1 to 100.
-
