@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 shegszydoo.tech  7199  IN A  35.153.98.180
-
+curl 127.0.0.1.
 Query time: 65 msec
 SERVER: 8.8.8.8#53(8.8.8.8)
